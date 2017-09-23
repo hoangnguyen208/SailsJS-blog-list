@@ -7,6 +7,7 @@ a [Sails](http://sailsjs.org) application
 # Usage
 
 - Clone the project
+- npm install
 - Install Sails.js globally (http://sailsjs.com/get-started)
 - Connect to mongodb (https://docs.mongodb.com/manual/tutorial/getting-started/#connect-to-the-cluster)
 - Run the command: sails lift 
